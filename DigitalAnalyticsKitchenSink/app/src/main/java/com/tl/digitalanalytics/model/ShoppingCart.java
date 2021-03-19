@@ -16,7 +16,7 @@ import java.util.UUID;
 import java.io.Serializable;
 
 /**
- * @author Sohil Shah (sohishah@us.ibm.com)
+ * @author Sohil Shah
  *
  */
 public class ShoppingCart implements Serializable 
