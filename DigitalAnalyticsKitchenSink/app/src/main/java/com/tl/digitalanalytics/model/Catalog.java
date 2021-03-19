@@ -23,7 +23,7 @@ import org.w3c.dom.NodeList;
 import android.content.Context;
 
 /**
- * @author Sohil Shah (sohishah@us.ibm.com)
+ * @author Sohil Shah
  *
  */
 public class Catalog implements Serializable
