@@ -34,7 +34,7 @@ import com.tl.digitalanalytics.tagging.TagPageView;
 
 /**
  * 
- * @author Sohil Shah (sohishah@us.ibm.com)
+ * @author Sohil Shah
  *
  */
 public class MainActivity extends AppCompatActivity
