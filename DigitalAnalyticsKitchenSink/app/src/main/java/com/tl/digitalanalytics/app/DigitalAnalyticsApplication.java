@@ -18,7 +18,7 @@ import com.tl.uic.Tealeaf;
 import com.digitalanalytics.api.DigitalAnalytics;
 
 /**
- * @author Sohil Shah (sohishah@us.ibm.com)
+ * @author Sohil Shah
  * 
  */
 public class DigitalAnalyticsApplication extends Application {
