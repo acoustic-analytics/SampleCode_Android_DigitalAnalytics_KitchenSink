@@ -10,7 +10,7 @@
 package com.tl.digitalanalytics.tagging;
 
 /**
- * @author Sohil Shah (sohishah@us.ibm.com)
+ * @author Sohil Shah
  *
  */
 public interface Constants {
