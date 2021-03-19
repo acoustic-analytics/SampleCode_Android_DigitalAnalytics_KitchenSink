@@ -35,7 +35,7 @@ import com.tl.digitalanalytics.tagging.TagOrderCompletion;
 
 /**
  * 
- * @author Sohil Shah (sohishah@us.ibm.com)
+ * @author Sohil Shah
  *
  */
 public class ShoppingCartActivity extends AppCompatActivity {
