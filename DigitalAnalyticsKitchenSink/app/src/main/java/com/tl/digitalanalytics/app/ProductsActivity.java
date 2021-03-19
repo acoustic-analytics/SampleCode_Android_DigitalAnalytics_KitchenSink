@@ -41,7 +41,7 @@ import com.tl.digitalanalytics.tagging.TagShopAction5;
 
 /**
  * 
- * @author Sohil Shah (sohishah@us.ibm.com)
+ * @author Sohil Shah
  *
  */
 public class ProductsActivity extends AppCompatActivity
