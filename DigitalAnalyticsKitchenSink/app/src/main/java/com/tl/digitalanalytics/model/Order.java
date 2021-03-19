@@ -12,7 +12,7 @@ package com.tl.digitalanalytics.model;
 import java.io.Serializable;
 
 /**
- * @author Sohil Shah (sohishah@us.ibm.com)
+ * @author Sohil Shah
  *
  */
 public class Order implements Serializable 
