@@ -18,7 +18,7 @@ import com.tl.digitalanalytics.model.Product;
 
 /**
  * 
- * @author Sohil Shah (sohishah@us.ibm.com)
+ * @author Sohil Shah
  * 
  */
 public class TagProductView {
