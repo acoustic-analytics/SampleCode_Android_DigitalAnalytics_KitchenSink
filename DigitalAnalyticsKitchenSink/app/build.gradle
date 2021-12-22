@@ -5,12 +5,12 @@ apply plugin: 'kotlin-android-extensions'
 apply plugin: 'com.archinamon.aspectj'
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion "28.0.3"
+    compileSdkVersion 30
+    buildToolsVersion "30.0.0"
     defaultConfig {
         applicationId 'com.da.kitchensink'
         minSdkVersion 16
-        targetSdkVersion 29
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
     }
@@ -30,15 +30,14 @@ android {
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
     testImplementation 'junit:junit:4.12'
-    implementation 'androidx.appcompat:appcompat:1.0.0'
-    implementation 'com.google.android.material:material:1.0.0'
-    implementation 'androidx.browser:browser:1.0.0'
+    implementation 'androidx.appcompat:appcompat:1.4.0'
 
-    implementation files('libs/teacuts.jar')
-    implementation files('libs/tealeafmod.jar')
-    implementation files('libs/eocore.jar')
+    implementation 'com.ea:da:1.1.33'
+    implementation 'com.ea:eocore:2.0.84'
+    implementation 'com.ea:tealeaf:10.3.119'
+    implementation 'com.ea:teacuts:3.0.7'
 }
 
 aspectj {
