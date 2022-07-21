@@ -26,6 +26,7 @@ public class DigitalAnalyticsApplication extends Application {
     @Override
     public final void onCreate() {
         // Startup the Tealeaf module
+        new Tealeaf(this);
         Tealeaf.enable();
 
         // Startup the Digital Analytics Module
