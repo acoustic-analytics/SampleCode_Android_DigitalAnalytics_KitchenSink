@@ -15,3 +15,9 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
+-adaptclassstrings
+-ignorewarnings
+-keepattributes *Annotation*,Signature,Exceptions,InnerClasses,EnclosingMethod
+-keepnames @org.aspectj.lang.annotation.Aspect class * {
+    ajc* <methods>;
+}

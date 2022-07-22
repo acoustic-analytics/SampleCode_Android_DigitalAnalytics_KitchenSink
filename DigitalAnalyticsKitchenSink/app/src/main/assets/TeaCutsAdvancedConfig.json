@@ -1,5 +1,5 @@
 {
-	"TeaCutsLibraryVersion":"2.0.0.29",
-    "DefaultAlertDialogLayoutDelay": 500,
-    "ExtendsGoogleWebViewClient": false
+  "LibraryVersion": "3.0.7",
+  "DefaultAlertDialogLayoutDelay": 500,
+  "ExtendsWebViewClient": false
 }
