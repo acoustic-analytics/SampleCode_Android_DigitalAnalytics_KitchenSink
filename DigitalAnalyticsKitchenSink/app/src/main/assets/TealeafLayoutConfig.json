@@ -1,15 +1,15 @@
 {
   "AutoLayout": {
-    "IBMGlobalScreenSettings":{
+    "GlobalScreenSettings":{
       "ScreenChange": true,
       "DisplayName": "",
-      "CaptureLayoutDelay": 500,
-      "ScreenShot": false,
+      "CaptureLayoutDelay": 300,
+      "ScreenShot": true,
       "NumberOfWebViews": 0,
       "CaptureUserEvents": true,
       "CaptureScreenVisits": true,
       "CaptureLayoutOn": 2,
-      "CaptureScreenshotOn": 0
+      "CaptureScreenshotOn": 1
     },
     "MainActivity": {
       "do": true,
@@ -20,13 +20,13 @@
     "ProductsActivity": {
       "do": true,
       "screenViewName": "ProductsActivity",
-      "delay": 500,
+      "delay": 300,
       "takeScreenShot": false
     },
     "ShoppingCartActivity": {
       "do": true,
       "screenViewName": "ShoppingCartActivity",
-      "delay": 500,
+      "delay": 300,
       "takeScreenShot": false
     }
   },
