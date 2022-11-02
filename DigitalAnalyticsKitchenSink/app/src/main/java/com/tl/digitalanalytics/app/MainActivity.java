@@ -31,6 +31,7 @@ import com.tl.digitalanalytics.model.Catalog;
 import com.tl.digitalanalytics.model.Category;
 import com.tl.digitalanalytics.model.ShoppingCart;
 import com.tl.digitalanalytics.tagging.TagPageView;
+import com.tl.uic.Tealeaf;
 
 /**
  * 
@@ -92,6 +93,7 @@ public class MainActivity extends AppCompatActivity
 
     @Override
     public boolean dispatchTouchEvent(MotionEvent e) {
+		Tealeaf.dispatchTouchEvent(this, e);
         return super.dispatchTouchEvent(e);
     }
 
