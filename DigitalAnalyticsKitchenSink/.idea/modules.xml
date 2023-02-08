@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DigitalAnalyticsKitchenSink.iml" filepath="$PROJECT_DIR$/.idea/modules/DigitalAnalyticsKitchenSink.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DigitalAnalyticsKitchenSink.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DigitalAnalyticsKitchenSink.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DigitalAnalyticsKitchenSink.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DigitalAnalyticsKitchenSink.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DigitalAnalyticsKitchenSink.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DigitalAnalyticsKitchenSink.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DigitalAnalyticsKitchenSink.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DigitalAnalyticsKitchenSink.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SampleCode_Android_DigitalAnalytics_KitchenSink.DigitalAnalyticsKitchenSink.iml" filepath="$PROJECT_DIR$/.idea/modules/SampleCode_Android_DigitalAnalytics_KitchenSink.DigitalAnalyticsKitchenSink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SampleCode_Android_DigitalAnalytics_KitchenSink.DigitalAnalyticsKitchenSink.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SampleCode_Android_DigitalAnalytics_KitchenSink.DigitalAnalyticsKitchenSink.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SampleCode_Android_DigitalAnalytics_KitchenSink.DigitalAnalyticsKitchenSink.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SampleCode_Android_DigitalAnalytics_KitchenSink.DigitalAnalyticsKitchenSink.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SampleCode_Android_DigitalAnalytics_KitchenSink.DigitalAnalyticsKitchenSink.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SampleCode_Android_DigitalAnalytics_KitchenSink.DigitalAnalyticsKitchenSink.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SampleCode_Android_DigitalAnalytics_KitchenSink.DigitalAnalyticsKitchenSink.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SampleCode_Android_DigitalAnalytics_KitchenSink.DigitalAnalyticsKitchenSink.app.unitTest.iml" />
     </modules>
   </component>
 </project>
