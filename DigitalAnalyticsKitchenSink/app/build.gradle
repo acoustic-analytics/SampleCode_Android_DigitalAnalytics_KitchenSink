@@ -33,9 +33,9 @@ android {
 
 dependencies {
     testImplementation "junit:junit:4.13.2"
-    implementation "androidx.appcompat:appcompat:1.6.0"
+    implementation "androidx.appcompat:appcompat:1.6.1"
 
-    implementation "io.github.acoustic-analytics:da:1.1.213"
-    implementation "io.github.acoustic-analytics:eocore:2.0.304"
-    implementation "io.github.acoustic-analytics:tealeaf:10.3.316"
+    implementation "io.github.acoustic-analytics:da:+"
+    implementation "io.github.acoustic-analytics:eocore:+"
+    implementation "io.github.acoustic-analytics:tealeaf:+"
 }
